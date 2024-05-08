@@ -19,8 +19,8 @@ if (isset($_POST['log'])) {
                 $idd = $row['cusid'];
                 $_SESSION["id"] = $row['idcv'];
                 $_SESSION["email"] = $email;
-                $_SESSION["status"] = "Welcome " . $row['fname'] . " Please update your profile details";
-                $_SESSION["code"] = "warning";
+                $_SESSION["status"] = "Welcome " . $row['fname'] ;
+                $_SESSION["code"] = "success";
                 $_SESSION['type'] = "cus";
                 header("location: pages/profile.php");
                 exit();
