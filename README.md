@@ -1,3 +1,26 @@
+## Live Project
+The GitHub project is now live at http://sqeassignment.space/. You can access and explore the project directly from this URL. This online version provides an environment where you can interact with the application without the need to set it up locally. Simply visit the link to view the project in action.
+
+Here's a breakdown of the access details for different user roles:
+
+Admin Logins: Accessible via http://sqeassignment.space/login.php
+```bash
+Email: sandun@gmail.com
+Password: 123321
+```
+Agency Logins: Also accessible via http://sqeassignment.space/login.php
+```bash
+Email: kasun@gmail.com
+Password: 123321
+```
+Customer Logins: You can access this section through http://sqeassignment.space/pages/sign-in.php
+```bash
+Email: john@gmail.com
+Password: 123321
+```
+
+Feel free to explore the functionalities and features of the project directly from the live URL provided.
+
 ## sqe-project in localhost
 PHP Project is "** sqe-project ** "<br>
 
